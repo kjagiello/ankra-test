@@ -1,0 +1,7 @@
+:80 {
+    respond "Hello, world!"
+}
+
+:443 {
+    respond "Hello, world!"
+}
